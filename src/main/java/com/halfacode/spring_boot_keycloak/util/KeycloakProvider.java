@@ -12,7 +12,7 @@ public class KeycloakProvider {
     private static final String REALM_NAME = "spring-boot-realm-dev";
     private static final String REALM_MASTER = "master";
     private static final String ADMIN_CLI = "admin-cli";
-    private static final String USER_CONSOLE = "admin";
+    private static final String USER_CONSOLE = "taregsafi";
     private static final String PASSWORD_CONSOLE = "0912658511";
     private static final String CLIENT_SECRET = "GSUvkUFwpog6wZnxCewNPVakdpU3ByNs";
 
